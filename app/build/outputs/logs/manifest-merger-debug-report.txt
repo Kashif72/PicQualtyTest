@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kashifimam/.gradle/caches/transforms-3/1cfa0da65014223543786f89fe038fff/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/8f780b6c2a5798401c018378a4d1d0e4/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kashifimam/.gradle/caches/transforms-3/38c2187f4ba1af1b3411244758249add/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/41766ddb0e1f6b300ccb08cc33e3eb69/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/4ef60489fa2554f6e9507c73450a1267/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/a7e20b262dd26848f60097e923f1cdbd/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/0af3754ffeb34635257af6b3c7b9e0ea/transformed/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/5b79e5364e083446fa0989260fa9913c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/83d7301ba346accbed34b39c5cb33647/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/dd47b85253e9aee20ae7777af58dbc66/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/55fde744a6672d7049d4d70dfa5b3246/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/2e9288f06c541bb014b401251068c8e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kashifimam/.gradle/caches/transforms-3/93795cb6975ecff29edb58ff97a87e08/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kashifimam/.gradle/caches/transforms-3/493f41cc98209dc523110c1e100b76ec/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/c9669c5919d1fb7380995c9c50b225af/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/f8d8d84912234a5133da1f54718c30b4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/e5941978af070df67b82caab582678f5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/fa093181d7ebb6451884506dcf233740/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/9ffe4ded92df3e664d11613a4f37ed6c/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:13:5-20
+MERGED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:13:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/2e9288f06c541bb014b401251068c8e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/2e9288f06c541bb014b401251068c8e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:9:9-35
+	tools:ignore
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:11:9-48
+	android:allowBackup
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:10:9-53
+	android:name
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:7:9-60
+activity#net.idrnd.facesdk_example.MainActivity
+ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+MERGED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kashifimam/.gradle/caches/transforms-3/1cfa0da65014223543786f89fe038fff/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kashifimam/.gradle/caches/transforms-3/1cfa0da65014223543786f89fe038fff/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/8f780b6c2a5798401c018378a4d1d0e4/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/8f780b6c2a5798401c018378a4d1d0e4/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kashifimam/.gradle/caches/transforms-3/38c2187f4ba1af1b3411244758249add/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kashifimam/.gradle/caches/transforms-3/38c2187f4ba1af1b3411244758249add/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/41766ddb0e1f6b300ccb08cc33e3eb69/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/41766ddb0e1f6b300ccb08cc33e3eb69/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/4ef60489fa2554f6e9507c73450a1267/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/4ef60489fa2554f6e9507c73450a1267/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/a7e20b262dd26848f60097e923f1cdbd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/a7e20b262dd26848f60097e923f1cdbd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/0af3754ffeb34635257af6b3c7b9e0ea/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/0af3754ffeb34635257af6b3c7b9e0ea/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/5b79e5364e083446fa0989260fa9913c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/5b79e5364e083446fa0989260fa9913c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/83d7301ba346accbed34b39c5cb33647/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/83d7301ba346accbed34b39c5cb33647/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/dd47b85253e9aee20ae7777af58dbc66/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/dd47b85253e9aee20ae7777af58dbc66/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/55fde744a6672d7049d4d70dfa5b3246/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/55fde744a6672d7049d4d70dfa5b3246/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/2e9288f06c541bb014b401251068c8e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kashifimam/.gradle/caches/transforms-3/2e9288f06c541bb014b401251068c8e4/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kashifimam/.gradle/caches/transforms-3/93795cb6975ecff29edb58ff97a87e08/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kashifimam/.gradle/caches/transforms-3/93795cb6975ecff29edb58ff97a87e08/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kashifimam/.gradle/caches/transforms-3/493f41cc98209dc523110c1e100b76ec/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kashifimam/.gradle/caches/transforms-3/493f41cc98209dc523110c1e100b76ec/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/c9669c5919d1fb7380995c9c50b225af/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/c9669c5919d1fb7380995c9c50b225af/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/f8d8d84912234a5133da1f54718c30b4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kashifimam/.gradle/caches/transforms-3/f8d8d84912234a5133da1f54718c30b4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/e5941978af070df67b82caab582678f5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/e5941978af070df67b82caab582678f5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/fa093181d7ebb6451884506dcf233740/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/fa093181d7ebb6451884506dcf233740/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/9ffe4ded92df3e664d11613a4f37ed6c/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kashifimam/.gradle/caches/transforms-3/9ffe4ded92df3e664d11613a4f37ed6c/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:2:1-21:12 reason: net.idrnd.facesdk requested WRITE_EXTERNAL_STORAGE

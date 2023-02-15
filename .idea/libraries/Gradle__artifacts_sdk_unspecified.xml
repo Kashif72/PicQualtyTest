@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:sdk:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/res" />
+      <root url="file://$PROJECT_DIR$/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+net/idrnd/facesdk_example/MainActivity.java
+ net.idrnd.facesdk_example.MainActivity
+net/idrnd/facesdk_example/ExampleApp.java
+ net.idrnd.facesdk_example.ExampleApp
+net/idrnd/facesdk_example/BuildConfig.java
+ net.idrnd.facesdk_example.BuildConfig

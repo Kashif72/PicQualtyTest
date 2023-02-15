@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "net.idrnd.facesdk_example",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "properties": [],
+      "versionCode": 20,
+      "versionName": "2.0",
+      "enabled": true,
+      "outputFile": "app-arm64-v8a-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "properties": [],
+      "versionCode": 20,
+      "versionName": "2.0",
+      "enabled": true,
+      "outputFile": "app-armeabi-v7a-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "properties": [],
+      "versionCode": 20,
+      "versionName": "2.0",
+      "enabled": true,
+      "outputFile": "app-x86-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [],
+      "properties": [],
+      "versionCode": 20,
+      "versionName": "2.0",
+      "enabled": true,
+      "outputFile": "app-universal-debug.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "properties": [],
+      "versionCode": 20,
+      "versionName": "2.0",
+      "enabled": true,
+      "outputFile": "app-x86_64-debug.apk"
+    }
+  ]
+}

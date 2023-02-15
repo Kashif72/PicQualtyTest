@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.idrnd.facesdk_example"
+4    android:versionCode="20"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->[:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:11:5-81
+11-->[:sdk] /Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/sdk/build/.transforms/6597d400ef2c3213cb8d50a58e880957/transformed/facesdk-aar-full-release/AndroidManifest.xml:11:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13
+14    <application
+14-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:6:5-20:19
+15        android:name="net.idrnd.facesdk_example.ExampleApp"
+15-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:7:9-60
+16        android:allowBackup="false"
+16-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:8:9-36
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.0] /Users/kashifimam/.gradle/caches/transforms-3/d9135516135a664c48fe04ea4f5fc3c9/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:supportsRtl="true"
+19-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:9:9-35
+20        android:theme="@style/Theme.AppCompat.Light" >
+20-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:10:9-53
+21        <activity
+21-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:12:9-19:20
+22            android:name="net.idrnd.facesdk_example.MainActivity"
+22-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:13:13-41
+23            android:screenOrientation="sensorPortrait" >
+23-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:14:13-55
+24            <intent-filter>
+24-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:15:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:16:17-69
+25-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:17:17-77
+27-->/Users/kashifimam/Downloads/facesdk-android-v1.36.0-time-limited-prod/examples/android/app/src/main/AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
